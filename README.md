@@ -1,2 +1,9 @@
-# bing_filter_erlang
-em_filter example for Bing
+bing_filter
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
